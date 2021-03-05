@@ -1,0 +1,3 @@
+module MiProyecto {
+	exports main;
+}
